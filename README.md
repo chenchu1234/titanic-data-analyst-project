@@ -1,4 +1,4 @@
-🚢 Titanic Data Analysis
+🚢 Titanic Data Analyst
 
 This project explores the legendary Titanic dataset to analyze survival patterns using data cleaning, visualization, and statistical methods. 
 The aim is to uncover key insights into what factors played the most significant role in survival chances during the tragic voyage.
