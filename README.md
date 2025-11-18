@@ -31,7 +31,7 @@ Traveling with family increased chances of survival.
 
 🚀 How to Run
 Clone the repo:
-git clone https://github.com/your-username/titanic-data-analysis.git
+git clone https://https://github.com/chenchu1234/Financial-python-project.git
 
 Install dependencies:
 pip install -r requirements.txt
